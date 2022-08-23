@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuperWave6
 - 👀 I’m interested in labview
 - 🌱 I’m currently learning labview
-- 💞️ I’m looking to collaborate on labview
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
